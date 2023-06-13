@@ -1,0 +1,10 @@
+.chat::-webkit-scrollbar{
+    width: 8px;
+    background-color: transparent;
+    height: 86px;
+
+}
+.chat::-webkit-scrollbar-thumb {
+    background-color: #CED2DB;
+    border-radius: 20px;
+  }
